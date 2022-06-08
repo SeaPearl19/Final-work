@@ -1,3 +1,2 @@
 # Final-work
-C, Excel
-(report is in google drive)
+C (report is in google drive), Excel
